@@ -1,6 +1,6 @@
 # z-phone-ui
 
-> 基于better-scroll滚动策略的手机ui， npm已上，不过还没打真正版本，在公司内部生产试用。文档编写中～～编写完成后上线第一个版本。请期待～～～
+> 基于better-scroll滚动策略的手机ui
 
 ## Build Setup
 
