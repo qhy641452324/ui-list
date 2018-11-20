@@ -1,0 +1,36 @@
+.list-wrapper
+  position: relative
+  height: 100%
+  overflow: hidden
+  background: $default-bg
+  .scroll-content
+    position: relative
+    z-index: 1
+  .list-content
+    position: relative
+    z-index: 10
+    background: $default-bg
+    .list-item
+      height: 60px
+      line-height: 60px
+      font-size: 18px
+      border-bottom: 1px solid $border-toolbar-color
+
+.pulldown-wrapper
+  position: absolute
+  width: 100%
+  left: 0
+  display: flex
+  justify-content center
+  align-items center
+  transition: all
+  .after-trigger
+    margin-top: 10px
+    padding-bottom 10px
+
+.pullup-wrapper
+  width: 100%
+  display: flex
+  justify-content center
+  align-items center
+  padding: 16px 0
